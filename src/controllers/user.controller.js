@@ -387,5 +387,5 @@ export {
     updateUserAvatar,
     updateUserCoverImage,
     getUserChannelProfile,
-    channel,
+    
 }
